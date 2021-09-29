@@ -1,2 +1,2 @@
-# samle-app
+# sample-app
 git学習用
